@@ -11,8 +11,6 @@ function App() {
         </p>
         <a
           className="App-link"
-          // href="https://reactjs.org"
-          
 // <----------switched link---------->
           href="https://www.propelleraero.com/dirtmate/"
           target="_blank"
